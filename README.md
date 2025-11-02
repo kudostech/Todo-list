@@ -62,14 +62,16 @@ todo-list/
 
 - Clone the repository
   
-git clone https://github.com/kudostech/todo-list.git
+ git clone https://github.com/kudostech/todo-list.git
  
-cd todo-list
+- cd todo-list
 
 - Install dependencies
+  
 npm install
 
 - Start the development server
+  
 npm start
 
 - Run on device
