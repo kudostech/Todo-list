@@ -77,7 +77,7 @@ Or press a to open the Android emulator.
 
 ---
 ## 📸 Screenshots
-![Home Screen](./screenshots)
+![Home Screen](./screenshot)
 
 ---
 ## 🧠 Key Learnings
@@ -95,4 +95,5 @@ Or press a to open the Android emulator.
 ## 🧑‍💻 Author
 
 ABOLAJI QUDUS AYOBAMI
+
 📧 ABOLAJIAYOBAMI2000@GMAIL.COM.com
