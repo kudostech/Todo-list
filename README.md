@@ -75,13 +75,16 @@ npm install
 npm start
 
 - Run on device
+  
 Scan the QR code with the Expo Go app (on Android/iOS).
+
 Or press i to open the iOS simulator.
+
 Or press a to open the Android emulator.
 
 ---
 ## 📸 Screenshots
-![Home Screen](./screenshot.png)
+![Home Screen](./Screenshot.png)
 
 ---
 ## 🧠 Key Learnings
