@@ -101,6 +101,6 @@ Or press a to open the Android emulator.
 
 ## 🧑‍💻 Author
 
-ABOLAJI QUDUS AYOBAMI
+NAME: ABOLAJI QUDUS AYOBAMI
 
-📧 ABOLAJIAYOBAMI2000@GMAIL.COM.com
+EMAIL: 📧 abolajiayobami2000@gmail.com
