@@ -61,7 +61,9 @@ todo-list/
 - Follow these steps to run the project locally:
 
 - Clone the repository
- git clone https://github.com/kudostech/todo-list.git
+  
+git clone https://github.com/kudostech/todo-list.git
+ 
 cd todo-list
 
 - Install dependencies
@@ -77,7 +79,7 @@ Or press a to open the Android emulator.
 
 ---
 ## 📸 Screenshots
-![Home Screen](./screenshot)
+![Home Screen](./screenshot.png)
 
 ---
 ## 🧠 Key Learnings
